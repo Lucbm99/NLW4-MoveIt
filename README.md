@@ -8,9 +8,11 @@ git clone https://github.com/Lucbm99/NLW4-MoveIt.git
 
 2- Feito isso, como o aplicativo foi feito utilizando o gerenciador de pacotes yarn, na pasta de seu projeto, você digitará o seguinte comando: 
 yarn create next-app move-it
+
 ![image](https://user-images.githubusercontent.com/45500959/109404254-09da4000-7943-11eb-92b2-110cbbfdb28e.png)
 
 3- Feito isso, basta digitar o comando yarn dev, na pasta de seu projeto, que o projeto estará disponível para ser acessado na url: http://localhost:3000.
+
 ![image](https://user-images.githubusercontent.com/45500959/109404291-6ccbd700-7943-11eb-9278-18f6f1119123.png)
 
 Utilizando o Yarn como gerenciador de pacotes ao invés do NPM foi a minha primeira vez utilizando, sendo que, o Yarn oferece um ambiente de desenvolvimento para ser utilizado juntamente com o Next.js.
